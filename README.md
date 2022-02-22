@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adam0tokyo (Adam)
 - 👀 I’m interested in music (mainly hiphop recently), movies (mainly suspense), books (mainly fiction), and casual bicycle rides around Tokyo.
-- 🌱 I’m currently learning Javascript, python, and Japanese.
+- 🌱 I’m currently learning JavaScript, Python, and Japanese.
 - 💞️ I’m looking to collaborate on antyhing and everything
 - 📫 How to reach me amdam0tokyo -at- gmail
 
