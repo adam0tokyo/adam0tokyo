@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @adam0tokyo (Adam)
-- 👀 I’m interested in music, movies, books, and casual bicycle rides around Tokyo.
-- 🌱 I’m currently learning JavaScript, Python, and Japanese.
-- 💞️ I’m looking to collaborate on anything and everything.
-- 📫 How to reach me: adam0tokyo -at- gmail
+<div>
+👋 Hi, I’m Adam<br />
+🗾 Chiyoda-ku, Tokyo<br />
+📧 adam0tokyo -at- gmail -dot- com<br />
+💖 Interested in sci-fi and fantasy novels, bicycle rides at night, exercising at home, board games, and picnicking<br />
 
-<!---
-adam0tokyo/adam0tokyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+<br />
+
+![Adam's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adam0tokyo&layout=compact)
+
+<br />
+
+![Adam's Github Stats](https://github-readme-stats.vercel.app/api/?username=adam0tokyo&theme=monokai&show_icons=true)
+  
