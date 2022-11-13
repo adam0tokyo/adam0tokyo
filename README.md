@@ -1,6 +1,6 @@
 <div>
 👋 Hi, I’m Adam<br />
-🗾 Chiyoda-ku, Tokyo<br />
+🗾 Chiyoda City, Tokyo<br />
 📧 adam0tokyo -at- gmail -dot- com<br />
 💖 Interested in sci-fi and fantasy novels, bicycle rides at night, exercising at home, board games, and picnicking<br />
 
